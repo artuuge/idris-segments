@@ -2,6 +2,8 @@
 -- Tested with Idris version 0.9.15.1
 -- All functions are total. 
 
+-- Author: artuuge@gmail.com
+
 -- The present module defines data types and functions which can be used to compare natural numbers. 
 -- In particular, one can find below the proofs that equality is an equivalence relation, and 
 -- that less-or-equal and greater-or-equal are partial orders. 
